@@ -123,7 +123,7 @@ margin-bottom: 16px;
 .container{width: 1158px; margin: 0 auto;padding: 0 15px 0 15px;}
 .menu{gap: 40px;}
 .section-two{padding: 120px 0 120px ; }
-.sect-two-li{flex-basis: calc((100% - 72px) / 4);}
+.sect-two-li{flex-basis: calc((100% - 3 * 24px) / 4)}
 .menu-sect-two{gap: 24px; display: flex}
 .section-three{padding-bottom: 120px;}
 .sect-three-li{

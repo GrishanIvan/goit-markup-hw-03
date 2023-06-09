@@ -39,11 +39,12 @@ margin-right: 76px;
 }
 .mail:hover{color:#404bbf;}
 .mail:focus {color:#404bbf;}
-.section-one {background-color: var(--logo-color);}
-.h-one{
+.section-one {background-color: var(--logo-color); padding: 188px 0 188px;
+}
+.h-one{max-width: 496px;
     font-size: 56px ; line-height: 1.07 ; text-align: center ;letter-spacing: 0.02em ;color: #ffffff ;
 }
-.button-sect-one{
+.button-sect-one{ display: block; margin: ;min-width: 169px; height: 56px; border: none;border-radius: 4px;cursor: pointer;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif ;
     font-weight: 500 ;
@@ -106,5 +107,4 @@ margin-right: 76px;
 .main-header{ border-bottom: 1px , solid, #e7e9fc;}
 .div-class {display: flex; }
 .container{width: 1158px; margin: 0 auto;padding: 0 15px 0 15px;}
-.menu{gap: 40px;
-}
+.menu{gap: 40px;}

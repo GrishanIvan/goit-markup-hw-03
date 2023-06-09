@@ -73,6 +73,7 @@ margin-right: 76px;
     letter-spacing: 0.02em ;
     text-transform: capitalize ;
     color: var(--logo-color);
+    margin-bottom: 72px;
 }
 .section-four{
     background-color: #F4F4FD ;
@@ -113,3 +114,7 @@ margin-right: 76px;
 .vshidden{visibility: hidden;}
 .sect-two-li{width: calc((100% - 72px) / 4);}
 .menu-sect-two{gap: 24px;}
+.section-three{padding-bottom: 120px;}
+.sect-three-li{
+    width: calc((100% - 48px) / 3);
+}

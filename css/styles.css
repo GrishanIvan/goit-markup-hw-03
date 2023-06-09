@@ -59,7 +59,8 @@ margin-right: 76px;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--logo-color);}
+    color: var(--logo-color);
+    margin-bottom: 8px;}
 .paragraf{font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -110,3 +111,5 @@ margin-right: 76px;
 .menu{gap: 40px;}
 .section-two{padding: 120px 0 120px ; }
 .vshidden{visibility: hidden;}
+.sect-two-li{width: calc((100% - 72px) / 4);}
+.menu-sect-two{gap: 24px;}

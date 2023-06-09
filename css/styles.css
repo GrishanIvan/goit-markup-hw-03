@@ -95,7 +95,8 @@ margin-bottom: 16px;
 }
 .logo-footer{line-height: 1.5 ;
     letter-spacing: 0.02em   ;
-    color: var(--footer-color);  }
+    color: var(--footer-color); 
+    max-width: 264px; }
 .button-port  {
     font-family: "Roboto", sans-serif;
     font-weight: 500;

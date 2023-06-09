@@ -27,6 +27,7 @@ margin-right: 76px;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
     color: var(--logo-color) ;
+    padding: 24px 0 24px
 }
 .menu-icon:focus{color:#404bbf;}
 .menu-icon:hover{color: #404bbf;}
@@ -105,3 +106,5 @@ margin-right: 76px;
 .main-header{ border-bottom: 1px , solid, #e7e9fc;}
 .div-class {display: flex; }
 .container{width: 1158px; margin: 0 auto;padding: 0 15px 0 15px;}
+.menu{gap: 40px;
+}

@@ -108,3 +108,5 @@ margin-right: 76px;
 .div-class {display: flex; }
 .container{width: 1158px; margin: 0 auto;padding: 0 15px 0 15px;}
 .menu{gap: 40px;}
+.section-two{padding: 120px 0 120px ; }
+.vshidden{visibility: hidden;}

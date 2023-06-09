@@ -18,6 +18,8 @@ letter-spacing: 0.03em ;
 text-transform: uppercase;
 color: #4d5ae5;
 margin-right: 76px;
+display: inline-block;
+margin-bottom: 16px;
 }
 .link{ text-decoration: none; color:hover;}
 .logo-span{color: var(--logo-color)}
@@ -85,7 +87,8 @@ margin-right: 76px;
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;}
 .footer-main{
-    background-color:var(--logo-color)
+    background-color:var(--logo-color);
+    padding: 100px 0 100px;
 }
 .footer-span{
     color: #f4f4fd;

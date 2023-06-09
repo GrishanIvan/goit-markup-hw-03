@@ -77,6 +77,7 @@ margin-right: 76px;
 }
 .section-four{
     background-color: #F4F4FD ;
+    padding: 120px 0 120px;
 }
 .li-one{background-color: #FFFFFF;}
 .footer-main{
@@ -113,7 +114,7 @@ margin-right: 76px;
 .section-two{padding: 120px 0 120px ; }
 .vshidden{visibility: hidden;}
 .sect-two-li{width: calc((100% - 72px) / 4);}
-.menu-sect-two{gap: 24px;}
+.menu-sect-two{gap: 24px; display: flex}
 .section-three{padding-bottom: 120px;}
 .sect-three-li{
     width: calc((100% - 48px) / 3);

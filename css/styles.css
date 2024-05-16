@@ -58,6 +58,7 @@ h6 {
   color: #4d5ae5;
   text-transform: uppercase;
   margin-right: 76px;
+  display: inline-block;
 }
 .ul-address {
   gap: 40px;
